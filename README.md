@@ -24,7 +24,7 @@ The analysis provides valuable insights into the spread and management of COVID-
 For more details and visualizations, refer to the accompanying Tableau dashboard and SQL queries.
 
 About the Author:
-Ebenezerakpati is a data analyst with expertise in SQL, data visualization, and project management. They have previously worked on diverse projects ranging from COVID-19 data analysis to machine learning applications. Explore more of Ebenezerakpati's insightful projects on Medium: Africa Continent COVID-19 Data Analysis.
+Ebenezerakpati is a data analyst with expertise in SQL, data visualization, and project management. They have previously worked on diverse projects ranging from COVID-19 data analysis to machine learning applications. Explore more of Ebenezerakpati's insightful projects on Medium: [Africa Continent COVID-19 Data Analysis](https://medium.com/@ebenezerakpati/africa-continent-covid-19-data-analysis-as-of-january-2020-to-may-2023-an-sql-server-ssms-and-te-c68959096789)https://medium.com/@ebenezerakpati/africa-continent-covid-19-data-analysis-as-of-january-2020-to-may-2023-an-sql-server-ssms-and-te-c68959096789.
 
 
 

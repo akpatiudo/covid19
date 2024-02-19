@@ -9,7 +9,7 @@ Steps Taken:
 Database Creation: A database named 'portfolio' was created in SQL Server, along with a table named 'projects'.
 Data Importation: The dataset was split into two files, 'covidDeath$' and 'covidVaccinations$', and imported into the 'portfolio' database to facilitate efficient analysis.
 Data Exploration: Common Table Expressions (CTEs) were utilized to filter and narrow down the dataset to focus on African continent-specific data.
-Data Analysis: Various SQL queries were executed to analyze different aspects of the COVID-19 data, including total cases, deaths, death rates, highest case counts by country, vaccination percentages, and hospitalization statistics.
+Data Analysis: Various SQL queries were executed to analyze different aspects of the COVID-19 data, including total cases, deaths, death rates, highest case counts by country, vaccination percentages, and hospitalization statistics. All codes used are in SQLcovidFinal.sql file
 Visualization: Tableau was employed for data visualization to provide clear insights derived from the SQL analysis.
 
 ### Key Findings:
